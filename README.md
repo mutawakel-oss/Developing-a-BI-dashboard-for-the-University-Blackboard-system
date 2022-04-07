@@ -32,3 +32,5 @@ The scope of LMS Reporting System for all the University campuses (Riyadh, Jedda
 5.	Faculty Progress Report of Using Blackboard System.
 # Project Schedule:
 This project took 6 months and helped 10,000 active students to understand a lot of insights about their learning progress in Blackbaord System.
+Following is a sample screenshot of the system login page:
+![Sample Graph](https://github.com/mutawakel-oss/Develop-a-Dashboard-for-Student-E-Services/blob/main/Picture1.png)
